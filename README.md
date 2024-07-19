@@ -1,2 +1,3 @@
 # Proxifier
-Proxy Scraping at your fingertips 
+very basic proxy scraper , Let me know if you want any features.
+More to come ;) 
